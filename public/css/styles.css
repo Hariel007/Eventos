@@ -7,16 +7,22 @@
     width: 50px;
     border-radius: 10px;
     margin-left: 5px;
+    
+    
+    
 
 }
 
 #navbar{
-    background-color: rgb(126, 85, 165);
+    background-color: rgb(31, 112, 194);
 
 
 }
 
 .nav-link{
-    color: rgb(212, 215, 218);
+    color: rgb(255, 255, 255);
+    border-radius: 10px;
 }
+
+
 

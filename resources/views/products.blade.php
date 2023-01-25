@@ -5,9 +5,9 @@
 @section('content')
 
 
- @if($busca != '')
+  @if($busca != '')
      <P>O usuário está buscando por: {{ $busca }}</P>
- @endif
+  @endif
 
 
 @endsection
